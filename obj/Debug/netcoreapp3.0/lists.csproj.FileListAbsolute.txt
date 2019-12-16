@@ -1,0 +1,11 @@
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\lists\bin\Debug\netcoreapp3.0\lists.exe
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\lists\bin\Debug\netcoreapp3.0\lists.deps.json
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\lists\bin\Debug\netcoreapp3.0\lists.runtimeconfig.json
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\lists\bin\Debug\netcoreapp3.0\lists.runtimeconfig.dev.json
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\lists\bin\Debug\netcoreapp3.0\lists.dll
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\lists\bin\Debug\netcoreapp3.0\lists.pdb
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\lists\obj\Debug\netcoreapp3.0\lists.csprojAssemblyReference.cache
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\lists\obj\Debug\netcoreapp3.0\lists.AssemblyInfoInputs.cache
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\lists\obj\Debug\netcoreapp3.0\lists.AssemblyInfo.cs
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\lists\obj\Debug\netcoreapp3.0\lists.dll
+C:\Users\Newforce41\Workspace\Csharp\bangazon\book1\lists\obj\Debug\netcoreapp3.0\lists.pdb
